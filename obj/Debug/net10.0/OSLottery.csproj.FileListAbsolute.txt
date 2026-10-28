@@ -12,3 +12,4 @@ C:\Users\peshal.parajuli\Desktop\OSLottery\obj\Debug\net10.0\refint\OSLottery.dl
 C:\Users\peshal.parajuli\Desktop\OSLottery\obj\Debug\net10.0\OSLottery.pdb
 C:\Users\peshal.parajuli\Desktop\OSLottery\obj\Debug\net10.0\OSLottery.genruntimeconfig.cache
 C:\Users\peshal.parajuli\Desktop\OSLottery\obj\Debug\net10.0\ref\OSLottery.dll
+C:\Users\peshal.parajuli\Desktop\OSLottery\obj\Debug\net10.0\OSLottery.sourcelink.json
