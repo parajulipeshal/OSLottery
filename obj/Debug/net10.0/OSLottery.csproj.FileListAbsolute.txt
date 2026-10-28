@@ -1,0 +1,14 @@
+C:\Users\peshal.parajuli\Desktop\OSLottery\bin\Debug\net10.0\OSLottery.exe
+C:\Users\peshal.parajuli\Desktop\OSLottery\bin\Debug\net10.0\OSLottery.deps.json
+C:\Users\peshal.parajuli\Desktop\OSLottery\bin\Debug\net10.0\OSLottery.runtimeconfig.json
+C:\Users\peshal.parajuli\Desktop\OSLottery\bin\Debug\net10.0\OSLottery.dll
+C:\Users\peshal.parajuli\Desktop\OSLottery\bin\Debug\net10.0\OSLottery.pdb
+C:\Users\peshal.parajuli\Desktop\OSLottery\obj\Debug\net10.0\OSLottery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peshal.parajuli\Desktop\OSLottery\obj\Debug\net10.0\OSLottery.AssemblyInfoInputs.cache
+C:\Users\peshal.parajuli\Desktop\OSLottery\obj\Debug\net10.0\OSLottery.AssemblyInfo.cs
+C:\Users\peshal.parajuli\Desktop\OSLottery\obj\Debug\net10.0\OSLottery.csproj.CoreCompileInputs.cache
+C:\Users\peshal.parajuli\Desktop\OSLottery\obj\Debug\net10.0\OSLottery.dll
+C:\Users\peshal.parajuli\Desktop\OSLottery\obj\Debug\net10.0\refint\OSLottery.dll
+C:\Users\peshal.parajuli\Desktop\OSLottery\obj\Debug\net10.0\OSLottery.pdb
+C:\Users\peshal.parajuli\Desktop\OSLottery\obj\Debug\net10.0\OSLottery.genruntimeconfig.cache
+C:\Users\peshal.parajuli\Desktop\OSLottery\obj\Debug\net10.0\ref\OSLottery.dll
